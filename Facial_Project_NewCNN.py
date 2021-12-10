@@ -1,7 +1,9 @@
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load in 
 
+"""
+Created on Wed Nov 17 02:18:45 2021
+
+@author: Maher
+"""
 #  Prepear General Library 
 import math
 import numpy as np # linear algebra
